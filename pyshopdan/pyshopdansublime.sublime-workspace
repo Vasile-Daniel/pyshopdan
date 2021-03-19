@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"u_nr"
+			],
+			[
+				"s",
+				"staticfiles"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"le",
+				"legend"
+			],
+			[
+				"x",
+				"xlabel"
+			],
+			[
+				"time",
+				"timeBins"
+			],
+			[
+				"wave",
+				"waveform"
+			],
+			[
+				"S",
+				"STOP_FLAG"
+			],
+			[
+				"de",
+				"degrees"
+			],
+			[
+				"P",
+				"Phase"
+			],
+			[
+				"sp",
+				"spectrumPha"
+			],
+			[
+				"fre",
+				"frequencyBins"
+			],
+			[
+				"spec",
+				"spectrum"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"mai",
+				"mainText"
+			],
+			[
+				"sch",
+				"shadowColor"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bu",
+				"buttonColor"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"fff",
+				"fff"
+			],
+			[
+				"auo",
+				"auto-fit"
+			],
+			[
+				"gird",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"p",
+				"padding-top\tproperty"
+			],
+			[
+				"grid",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"pre",
+				"preview-shadow"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"theme",
+				"themeDotBorder"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"light",
+				"lightcoral"
+			],
+			[
+				"se",
+				"secondaryColor"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"borde",
+				"borderColor"
+			],
+			[
+				"main",
+				"mainColor"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Python1/pyshopdan"
+	],
+	"file_history":
+	[
+		"/C/c/L25functii.c",
+		"/C/c/L24constante.c",
+		"/C/c/L23switchcase.c",
+		"/C/Python1/pyshopdan/products/urls.py",
+		"/C/Python1/pyshopdan/products/models.py",
+		"/C/Python1/pyshopdan/shopdan/settings.py",
+		"/C/Python1/pyshopdan/shopdan/urls.py",
+		"/C/Python1/pyshopdan/products/views.py",
+		"/C/Python1/pyshopdan/products/admin.py",
+		"/C/Python1/pyshopdan/db.sqlite3",
+		"/C/Python1/pyshopdan/shopdan/producst/urls.py",
+		"/C/Python1/pyshopdan/shopdan/shopdan/settings.py",
+		"/C/Python1/pyshopdan/shopdan/shopdan/urls.py",
+		"/C/Python1/pyshopdan/shopdan/producst/views.py",
+		"/C/c/L22ifelseif.c",
+		"/C/c/L21elseif.c",
+		"/C/c/L18scanf.c",
+		"/C/c/L18scanf.exe",
+		"/C/c/L19practica.exe",
+		"/C/c/L20if.c",
+		"/C/c/L20practica.c",
+		"/C/c/L5.c",
+		"/C/c/L5.exe",
+		"/C/c/L10short.c",
+		"/C/c/L11longint.c",
+		"/C/c/L9date.c",
+		"/C/Python1/tkinter1/main.py",
+		"/C/c/L8var.c",
+		"/C/c/L8var.exe",
+		"/C/Users/dvd/Documents/web_dan_css/post.html",
+		"/C/Users/dvd/Documents/web_dan_css/index.html",
+		"/C/Users/dvd/Documents/web_dan_css/bucket.html",
+		"/C/Python1/danwebdj/danweb/base/templates/base/home.html",
+		"/C/Python1/danwebdj/danweb/danweb/settings.py",
+		"/C/Python1/danwebdj/danweb/danweb/urls.py",
+		"/C/Python1/danwebdj/danweb/base/views.py",
+		"/C/Python1/danwebdj/danweb/base/urls.py",
+		"/C/Python1/danwebdj/danweb/base/staticfiles/css/main.css",
+		"/C/c/p6.c",
+		"/C/c/first.c",
+		"/C/c/first.exe",
+		"/C/c/hello.exe",
+		"/C/c/hello.c",
+		"/C/c/hello",
+		"/C/Python1/project_12python/Madlibs_DAN.py",
+		"/C/Users/dvd/Documents/D.3.3.1 MANCHESTER/python_manchester/SignalProcessing.py",
+		"/C/Users/dvd/Documents/D.2.4. limbajul C moldova/Programe_C_M/first.c",
+		"/C/Users/dvd/Documents/D.2.4. limbajul C moldova/Programe_C_M/fac_curat()",
+		"/C/Users/dvd/Documents/web_dan_css/bla",
+		"/C/Users/dvd/Documents/D.2.4. limbajul C moldova/Programe_C_M/make_coffee()",
+		"/C/Users/dvd/Documents/D.2.4. limbajul C moldova/Programe_C_M/make_salad(rosii, castaveti, varza)",
+		"/C/Users/dvd/Documents/web_dan_css/default.css",
+		"/C/Users/dvd/Documents/web_dan_css/python_matlab.html",
+		"/C/Users/dvd/Documents/web_dan_css/script.js",
+		"/C/Users/dvd/Documents/web_dan_css/purple.css",
+		"/C/Users/dvd/Documents/web_dan_css/green.css",
+		"/C/Users/dvd/Documents/web_dan_css/blue.css",
+		"/C/Users/dvd/Documents/MyHTML1/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "pyshopdansublime.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
